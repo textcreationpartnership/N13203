@@ -120,15 +120,16 @@
          <text xml:lang="eng">
             <front>
                <div type="title_page">
-                  <pb facs="tcp:016697_0000_0F9D7854230174D0" rendition="simple:additions"/>
-                  <pb facs="tcp:016697_0001_0F9D7854E34AC270"/>
+                  <pb facs="unknown:016697_0000_0F9D7854230174D0"
+                      rendition="simple:additions"/>
+                  <pb facs="unknown:016697_0001_0F9D7854E34AC270"/>
                   <p>COW-CHACE, IN THREE CANTOS, Publiſhed on Occaſion of the REBEL General WAYNE's ATTACK OF THE REFUGEES BLOCK-HOUSE ON HUDSON'S RIVER, On FRIDAY the 21ſt of JULY, 1780.</p>
                   <p>NEW-YORK: PRINTED BY JAMES RIVINGTON, MDCCLXXX.</p>
                </div>
             </front>
             <body>
                <div type="poem">
-                  <pb facs="tcp:016697_0002_0F9D7855A16F76A8"/>
+                  <pb facs="unknown:016697_0002_0F9D7855A16F76A8"/>
                   <head>COW-CHACE.</head>
                   <div n="1" type="chapter">
                      <head>CANTO I.</head>
@@ -157,7 +158,7 @@
                         <l>And loſe them after all.</l>
                      </lg>
                      <lg>
-                        <pb n="4" facs="tcp:016697_0003_0F9D785662FC7390"/>
+                        <pb n="4" facs="unknown:016697_0003_0F9D785662FC7390"/>
                         <l>For many heroes bold and brave</l>
                         <l>From <hi>New-Bridge</hi> and <hi>Tapaan,</hi>
                         </l>
@@ -191,7 +192,7 @@
                         <l>Or that to drive the Cows,</l>
                      </lg>
                      <lg>
-                        <pb n="5" facs="tcp:016697_0004_0F9D78572322E750"/>
+                        <pb n="5" facs="unknown:016697_0004_0F9D78572322E750"/>
                         <l>Ere yet you tempt your further way,</l>
                         <l>Or into action come,</l>
                         <l>Hear, ſoldiers, what I have to ſay,</l>
@@ -227,7 +228,7 @@
                         <l>Will drive away the Cows:</l>
                      </lg>
                      <lg>
-                        <pb n="6" facs="tcp:016697_0005_0F9D7857E1230458"/>
+                        <pb n="6" facs="unknown:016697_0005_0F9D7857E1230458"/>
                         <l>For well you know the latter is</l>
                         <l>The ſerious operation,</l>
                         <l>And fighting with the Refugees</l>
@@ -258,7 +259,7 @@
                         <hi>End of Canto</hi> I.</trailer>
                   </div>
                   <div n="2" type="chapter">
-                     <pb n="7" facs="tcp:016697_0006_0F9D7858A1C877D0"/>
+                     <pb n="7" facs="unknown:016697_0006_0F9D7858A1C877D0"/>
                      <head>CANTO II.</head>
                      <lg>
                         <l>NEAR his meridian pomp the ſun</l>
@@ -286,7 +287,7 @@
                         <l>Or he that gives a clyſter.</l>
                      </lg>
                      <lg>
-                        <pb n="8" facs="tcp:016697_0007_0F9D789AA244A8C8"/>
+                        <pb n="8" facs="unknown:016697_0007_0F9D789AA244A8C8"/>
                         <l>For greatly one was ſignaliz'd</l>
                         <l>That fought at <hi>Cheſnut-Hill,</hi>
                         </l>
@@ -320,7 +321,7 @@
                         <l>Of friendſhip and of love.</l>
                      </lg>
                      <lg>
-                        <pb n="9" facs="tcp:016697_0008_0F9D789B62A4B6A0"/>
+                        <pb n="9" facs="unknown:016697_0008_0F9D789B62A4B6A0"/>
                         <l>And ſome within a dungeon's gloom,</l>
                         <l>By mock tribunals laid,</l>
                         <l>Had waited long a cruel doom,</l>
@@ -351,7 +352,7 @@
                         <l>And make the block-houſe crack.</l>
                      </lg>
                      <lg>
-                        <pb n="10" facs="tcp:016697_0009_0F9D789C21272308"/>
+                        <pb n="10" facs="unknown:016697_0009_0F9D789C21272308"/>
                         <l>No ſhot could paſs, if you will take</l>
                         <l>The Gen'ral's word for true;</l>
                         <l>But 'tis a d—ble miſtake,</l>
@@ -385,7 +386,7 @@
                         <l>"They fought behind the ſtumps."</l>
                      </lg>
                      <lg>
-                        <pb n="11" facs="tcp:016697_0010_0F9D789CE1A841B8"/>
+                        <pb n="11" facs="unknown:016697_0010_0F9D789CE1A841B8"/>
                         <l>But ah, <hi>Thadaeus Poſſes,</hi> why</l>
                         <l>Should thy poor ſoul elope,</l>
                         <l>And why ſhould <hi>Titus Hooper</hi> die,</l>
@@ -420,7 +421,7 @@
                         <hi>End of Canto</hi> II.</trailer>
                   </div>
                   <div n="3" type="chapter">
-                     <pb n="12" facs="tcp:016697_0011_0F9D789E332BDA80"/>
+                     <pb n="12" facs="unknown:016697_0011_0F9D789E332BDA80"/>
                      <head>CANTO III.</head>
                      <lg>
                         <l>NOT all delights the bloody ſpear,</l>
@@ -448,7 +449,7 @@
                         </l>
                      </lg>
                      <lg>
-                        <pb n="13" facs="tcp:016697_0012_0F9D789E6230F5D0"/>
+                        <pb n="13" facs="unknown:016697_0012_0F9D789E6230F5D0"/>
                         <l>For now a prey to female charms,</l>
                         <l>His ſoul took more delight in</l>
                         <l>A lovely <note n="*" place="bottom">A Deity of the Woods.</note> HAMADRYAD's arms,</l>
@@ -474,7 +475,7 @@
                         <l>Are all my near relation's,</l>
                      </lg>
                      <lg>
-                        <pb n="14" facs="tcp:016697_0013_0F9D789F217425E0"/>
+                        <pb n="14" facs="unknown:016697_0013_0F9D789F217425E0"/>
                         <l>And I, forlorn! implore thine aid</l>
                         <l>To free the ſacred grove;</l>
                         <l>So ſhall thy proweſs be repaid</l>
@@ -504,7 +505,7 @@
                            <hi>Right</hi> into <hi>Yan Van Poop</hi>'s.</l>
                      </lg>
                      <lg>
-                        <pb n="15" facs="tcp:016697_0014_0F9D789FE0F2BCF8"/>
+                        <pb n="15" facs="unknown:016697_0014_0F9D789FE0F2BCF8"/>
                         <l>So <hi>Roman Anthony,</hi> they ſay,</l>
                         <l>Diſgrac'd th'imperial banner,</l>
                         <l>And for a gipſy loſt a day,</l>
@@ -536,7 +537,7 @@
                         <l>Like chaff before the wind.</l>
                      </lg>
                      <lg>
-                        <pb n="16" facs="tcp:016697_0015_0F9D78A0A51CABE0"/>
+                        <pb n="16" facs="unknown:016697_0015_0F9D78A0A51CABE0"/>
                         <l>But ſudden ſee the woods above</l>
                         <l>Pour down another corps,</l>
                         <l>All helter ſkelter in a drove,</l>
@@ -569,7 +570,7 @@
                         <l>And ſeek the neighbouring drain,</l>
                      </lg>
                      <lg>
-                        <pb n="17" facs="tcp:016697_0016_0F9D78A161FE7FD8"/>
+                        <pb n="17" facs="unknown:016697_0016_0F9D78A161FE7FD8"/>
                         <l>So met theſe dung-born tribes in one,</l>
                         <l>As ſwift in their career,</l>
                         <l>And ſo to <hi>Newbridge</hi> they ran on,—</l>
@@ -603,7 +604,7 @@
                         <l>Ha! ha! one pretty Marquis;</l>
                      </lg>
                      <lg>
-                        <pb n="18" facs="tcp:016697_0017_0F9D78A220D45F88"/>
+                        <pb n="18" facs="unknown:016697_0017_0F9D78A220D45F88"/>
                         <l>And he ſhall come to <hi>Paulus-Hook,</hi>
                         </l>
                         <l>And great atchievements think on,</l>
@@ -641,7 +642,7 @@
                   <trailer>FINIS.</trailer>
                </div>
                <div type="poem">
-                  <pb facs="tcp:016697_0018_0F9D78A2E13914C8"/>
+                  <pb facs="unknown:016697_0018_0F9D78A2E13914C8"/>
                   <head>
                      <hi>Yankee Doodle</hi>'s EXPEDITION to RHODE-ISLAND, WRITTEN at PHILADELPHIA.</head>
                   <lg>
@@ -667,7 +668,7 @@
                      <l>In ſpite of Yankee Rum, Sir.</l>
                   </lg>
                   <lg>
-                     <pb n="20" facs="tcp:016697_0019_0F9D78A3A17C53A0"/>
+                     <pb n="20" facs="unknown:016697_0019_0F9D78A3A17C53A0"/>
                      <l>He took his wallet on his back,</l>
                      <l>His rifle on his ſhoulder,</l>
                      <l>And <hi>veow'd</hi> Rhode-Iſland to attack</l>
@@ -698,7 +699,7 @@
                      <l>But that was all <hi>my eye,</hi> Sir.</l>
                   </lg>
                   <lg>
-                     <pb n="21" facs="tcp:016697_0020_0F9D78A460E3BD20"/>
+                     <pb n="21" facs="unknown:016697_0020_0F9D78A460E3BD20"/>
                      <l>As JONATHAN ſo much deſir'd</l>
                      <l>To ſhine in martial ſtory,</l>
                      <l>D'Eſtaing with politeſſe retir'd,</l>
@@ -729,7 +730,7 @@
                   </lg>
                </div>
                <div type="poem">
-                  <pb facs="tcp:016697_0021_0F9D78A520C60B90"/>
+                  <pb facs="unknown:016697_0021_0F9D78A520C60B90"/>
                   <head>ON THE AFFAIR BETWEEN THE REBEL GENERALS HOWE AND GADDESDEN, Written at <hi>Charlestown.</hi>
                   </head>
                   <lg>
@@ -756,7 +757,7 @@
                      </l>
                   </lg>
                   <lg>
-                     <pb n="24" facs="tcp:016697_0022_0F9D78A5E1DFD060"/>
+                     <pb n="24" facs="unknown:016697_0022_0F9D78A5E1DFD060"/>
                      <l>They met, and in the uſual way,</l>
                      <l>With hat in hand ſaluted,</l>
                      <l>Which was, no doubt, to ſhew how they</l>
@@ -790,7 +791,7 @@
                      <l>With—mutual forgiveneſs.</l>
                   </lg>
                   <lg>
-                     <pb n="25" facs="tcp:016697_0023_0F9D78A734E634B0"/>
+                     <pb n="25" facs="unknown:016697_0023_0F9D78A734E634B0"/>
                      <l>But leſt their courage ſhould exceed</l>
                      <l>The bounds of moderation,</l>
                      <l>Between the ſeconds 'twas agreed</l>
@@ -821,7 +822,7 @@
                      <l>H made a <hi>briſk</hi> beginning.</l>
                   </lg>
                   <lg>
-                     <pb n="26" facs="tcp:016697_0024_0F9D78A760F9F888"/>
+                     <pb n="26" facs="unknown:016697_0024_0F9D78A760F9F888"/>
                      <l>He miſs'd his <hi>mark,</hi> but not his <hi>aim;</hi>
                      </l>
                      <l>The ſhot was well directed;</l>
@@ -863,7 +864,7 @@
          <text xml:lang="eng">
             <front>
                <div type="title_page">
-                  <pb facs="tcp:016697_0025_0F9D78A8232DF758"/>
+                  <pb facs="unknown:016697_0025_0F9D78A8232DF758"/>
                   <p>THE AMERICAN TIMES, A SATIRE, IN THREE PARTS. IN WHICH ARE DELINEATED The Characters of the Leaders of the American Rebellion.</p>
                   <p>AMONGST THE PRINCIPAL ARE
 <list>
@@ -890,7 +891,7 @@
                   </q>
                </div>
                <div type="to_the_reader">
-                  <pb facs="tcp:016697_0026_0F9D78A8E325AE40"/>
+                  <pb facs="unknown:016697_0026_0F9D78A8E325AE40"/>
                   <head>ADVERTISEMENT.</head>
                   <p>THE maſters of Reaſon have decided, that when doctrines and practices have been fairly examin<g ref="char:EOLhyphen"/>ed, and proved to be contrary to Truth, and injurious to Society, then and not before may Ridicule be law<g ref="char:EOLhyphen"/>fully employed in the ſervice of Virtue.</p>
                   <p>This is exactly the caſe of the grand American Re<g ref="char:EOLhyphen"/>bellion; it has been weighed in the balance, and found wanting: able writers have expoſed its princi<g ref="char:EOLhyphen"/>ples, its conduct, and its final aim. Reaſon has done her part, and therefore this is the legitimate moment for Satire.</p>
@@ -899,7 +900,7 @@
             </front>
             <body>
                <div n="1" type="part">
-                  <pb facs="tcp:016697_0027_0F9D78A9A2947A60"/>
+                  <pb facs="unknown:016697_0027_0F9D78A9A2947A60"/>
                   <head>THE AMERICAN TIMES. PART I.</head>
                   <lg>
                      <l>WHEN Faction, pois'nous as the ſcorpion's ſting,</l>
@@ -918,7 +919,7 @@
                      <l>The wrath of Congreſs, or its lords the mob.</l>
                   </lg>
                   <lg>
-                     <pb n="32" facs="tcp:016697_0028_0F9D78AA62A1EFB0"/>
+                     <pb n="32" facs="unknown:016697_0028_0F9D78AA62A1EFB0"/>
                      <l>Bad are the Times, almoſt too bad to paint;</l>
                      <l>The whole head ſickens, the whole heart is faint;</l>
                      <l>The ſtate is rotten, rotten to the core,</l>
@@ -948,7 +949,7 @@
                      <l>Ye cities juſt emerging into fame,</l>
                      <l>Ye minds new ting'd with learning's ſacred flame,</l>
                      <l>
-                        <pb n="33" facs="tcp:016697_0029_0F9D78AB218F6A58"/>Ye people wondering at your ſwift increaſe,</l>
+                        <pb n="33" facs="unknown:016697_0029_0F9D78AB218F6A58"/>Ye people wondering at your ſwift increaſe,</l>
                      <l>Sons of united liberty and peace,</l>
                      <l>How are your glories in a moment fled?</l>
                      <l>See! Pity weeps, and honour hangs his head.</l>
@@ -977,7 +978,7 @@
                      <l>Ay, now I know thee—<note n="*" place="bottom">Late a Lawyer, now the rebel Governor of New Jerſey.</note> Livingſton art thou—</l>
                      <l>Gall in thy heart, and malice on thy brow;</l>
                      <l>
-                        <pb n="34" facs="tcp:016697_0030_0F9D78ABE26EA6C8"/>Coward, yet cruel—zealous, yet profane;</l>
+                        <pb n="34" facs="unknown:016697_0030_0F9D78ABE26EA6C8"/>Coward, yet cruel—zealous, yet profane;</l>
                      <l>Havoc, and ſpoil, and ruin are thy gain:</l>
                      <l>Go, glut like Death thy vaſt unhide-bound maw,</l>
                      <l>Remorſeleſs ſwallow liberty and law;</l>
@@ -1005,7 +1006,7 @@
                      <l>Thy ſight is odious, and thy name is <note n="*" place="bottom">A lawyer of Maryland—member of Congreſs.</note> Chaſe.</l>
                   </lg>
                   <lg>
-                     <pb n="35" facs="tcp:016697_0031_0F9D78ACA1EF0300"/>
+                     <pb n="35" facs="unknown:016697_0031_0F9D78ACA1EF0300"/>
                      <l>What ſpectre's that with eyes on earth intent,</l>
                      <l>Whoſe god is gold, whoſe glory cent. per cent;</l>
                      <l>Whoſe ſoul devoted to the love of gain,</l>
@@ -1031,7 +1032,7 @@
                      <l>Such is the man—his tongue he never balks,</l>
                      <l>On all things talkable he boldly talks;</l>
                      <l>
-                        <pb n="36" facs="tcp:016697_0032_0F9D78AD60E11958"/>A ſpecious orator of law he prates,</l>
+                        <pb n="36" facs="unknown:016697_0032_0F9D78AD60E11958"/>A ſpecious orator of law he prates,</l>
                      <l>A pompous nothing mingles in debates;</l>
                      <l>Conſummate impudence, ſheer braſs of ſoul,</l>
                      <l>Crowns every ſentence, and completes the whole;</l>
@@ -1060,7 +1061,7 @@
                      <l>Diſcordant natures whoſe ſeduction blends.</l>
                   </lg>
                   <lg>
-                     <pb n="37" facs="tcp:016697_0033_0F9D78AECE1FE010"/>
+                     <pb n="37" facs="unknown:016697_0033_0F9D78AECE1FE010"/>
                      <l>But ſtill the queſtion agitates mankind,</l>
                      <l>Could <note n="*" place="bottom">Duer and Duane, lawyers of New-York— members of Congreſs —amiable in the former part of their lives, now alas, how changed!</note> Duer be over-reach'd, Duane be blind?</l>
                      <l>Thy ſpritely genius, Duer, couldſt thou controul,</l>
@@ -1087,7 +1088,7 @@
                         <note n="†" place="bottom">Cooper, Hancock, and the two Adams's—of the firſt of theſe only it can be neceſſary to ſay any thing: Dr. Cooper is a congrega<g ref="char:EOLhyphen"/>tional miniſter of Boſton, and the oracle of thoſe few Rebels, who are in the ſecret of affairs—If a human being can take delight in having been the author of miſery, this man muſt be one of the happieſt in the creation.</note> Boſtonian Cooper, with his Hancock join'd,</l>
                      <l>Adams with Adams, one in heart and mind;</l>
                      <l>
-                        <pb n="38" facs="tcp:016697_0034_0F9D78AEE155CC58"/>Sprung from the ſoil, where witches ſwarm'd of yore,</l>
+                        <pb n="38" facs="unknown:016697_0034_0F9D78AEE155CC58"/>Sprung from the ſoil, where witches ſwarm'd of yore,</l>
                      <l>They come well ſkill'd in necromantic lore;</l>
                      <l>Intent on miſchief, buſily they toil,</l>
                      <l>The magic cauldron to prepare and boil;</l>
@@ -1112,7 +1113,7 @@
                      <l>Branches of perſecution, boughs of thrall,</l>
                      <l>And ſprigs of ſuperſtition, dipt in gall,</l>
                      <l>
-                        <pb n="39" facs="tcp:016697_0035_0F9D78AFA1D63F28"/>Opium to lull, or madden all the throng,</l>
+                        <pb n="39" facs="unknown:016697_0035_0F9D78AFA1D63F28"/>Opium to lull, or madden all the throng,</l>
                      <l>And aſſa-ſoetida proſuſely ſtrong,</l>
                      <l>Milk from Tiſiphone's infernal breaſt,</l>
                      <l>Herbs of all venom, drugs of every peſt,</l>
@@ -1143,7 +1144,7 @@
                      <l>Strike up hell's muſic, roar infernal drums,</l>
                      <l>Diſcharge the cannon—Lo! the warrior comes—</l>
                      <l>
-                        <pb n="40" facs="tcp:016697_0036_0F9D78B0640782C0"/>He comes not tame as on Ohio's banks,</l>
+                        <pb n="40" facs="unknown:016697_0036_0F9D78B0640782C0"/>He comes not tame as on Ohio's banks,</l>
                      <l>But rampant at the head of ragged ranks,</l>
                      <l>Hunger and itch are with him—<note n="*" place="bottom">Gates and Wayne, rebel generals—the former, one of the moſt ungrateful Engliſhmen; the latter, one of the moſt ſanguinary Ame<g ref="char:EOLhyphen"/>ricans.</note>Gates and Wayne,</l>
                      <l>And all the lice of Egypt in his train;</l>
@@ -1170,7 +1171,7 @@
                      <l>Thou haſt ſupported an atrocious cauſe</l>
                      <l>Againſt thy King, thy country, and the laws;</l>
                      <l>
-                        <pb n="41" facs="tcp:016697_0037_0F9D78B123AA0910"/>Committed perjury, encourag'd lies,</l>
+                        <pb n="41" facs="unknown:016697_0037_0F9D78B123AA0910"/>Committed perjury, encourag'd lies,</l>
                      <l>Forc'd conſcience, broken the moſt ſacred ties;</l>
                      <l>Myriads of wives and fathers at thy hand</l>
                      <l>Their ſlaughter'd huſbands ſlaughter'd ſons demand:</l>
@@ -1196,7 +1197,7 @@
                      <l>In all their ſhocking cruelties muſt ſhare.</l>
                   </lg>
                   <lg>
-                     <pb n="42" facs="tcp:016697_0038_0F9D78B1E0CBACF8"/>
+                     <pb n="42" facs="unknown:016697_0038_0F9D78B1E0CBACF8"/>
                      <l>What could, when half-way up the hill to fame,</l>
                      <l>Induce thee to go back, and link with ſhame?</l>
                      <l>Was it ambition, vanity, or ſpite,</l>
@@ -1229,7 +1230,7 @@
                   </lg>
                </div>
                <div n="2" type="part">
-                  <pb facs="tcp:016697_0039_0F9D78B2A2151900"/>
+                  <pb facs="unknown:016697_0039_0F9D78B2A2151900"/>
                   <head>THE AMERICAN TIMES. PART II.</head>
                   <lg>
                      <l>WHY haſt thou ſoar'd ſo high, ambitious Muſe?</l>
@@ -1253,7 +1254,7 @@
                      <l>When <note n="*" place="bottom">The rebel governor of Georgia, driven from his uſurped autho<g ref="char:EOLhyphen"/>rity by the Britiſh forces.</note> Houſton from Savannah fled of late,</l>
                      <l>Did any aſk, who took his chair of ſtate?</l>
                      <l>
-                        <pb n="44" facs="tcp:016697_0040_0F9D78B3613B89B0"/>Let <note n="†" place="bottom">Henry and Jefferſon, rebel governors of Virginia in ſucceſſion; the latter of them ſo eminently barbarous, as to exceed the conception of a Britiſh mind.</note> Henry quit, and Jefferſon ſucceed,</l>
+                        <pb n="44" facs="unknown:016697_0040_0F9D78B3613B89B0"/>Let <note n="†" place="bottom">Henry and Jefferſon, rebel governors of Virginia in ſucceſſion; the latter of them ſo eminently barbarous, as to exceed the conception of a Britiſh mind.</note> Henry quit, and Jefferſon ſucceed,</l>
                      <l>Let <note n="‡" place="bottom">Wharton and Reed, rebel preſidents of Pennſylvania in ſucceſſion.</note> Wharton's place (who cares, be fill'd by <gap reason="illegible: indecipherable" extent="1 letter">
                            <desc>•</desc>
                         </gap>eed;</l>
@@ -1273,7 +1274,7 @@
                      <l>We'll ſolve the doubt, and praiſe him for a brute<g ref="char:punc">▪</g>
                      </l>
                      <l>
-                        <pb n="45" facs="tcp:016697_0041_0F9D78B4B966EA70"/>
+                        <pb n="45" facs="unknown:016697_0041_0F9D78B4B966EA70"/>
                         <hi>No quarter,</hi> is his motto—ſweet and ſhort;</l>
                      <l>Good Britons give him a ſevere retort:</l>
                      <l>As yet he 'ſcapes the ſhot deſerv'd ſo well,</l>
@@ -1299,7 +1300,7 @@
                      <l>Art thou not <note n="*" place="bottom">James Wilſon, Eſquire, born in Scotland ſettled as a lawyer in Pennſylvania, of eminence in his profeſſion, and amiable in private life— late a member of Congreſs.</note> Wilſon?—ha! doſt thou lament</l>
                      <l>Thy poiſon'd principles, thy days miſ-ſpent?</l>
                      <l>
-                        <pb n="46" facs="tcp:016697_0042_0F9D78B4E1723D98"/>Was it thy fatal faith that led thee wrong?</l>
+                        <pb n="46" facs="unknown:016697_0042_0F9D78B4E1723D98"/>Was it thy fatal faith that led thee wrong?</l>
                      <l>Yet hadſt thou reaſon, and that reaſon ſtrong;</l>
                      <l>Judgment was thine and in no common ſhare,</l>
                      <l>That judgment cultur'd with aſſiduous care:</l>
@@ -1326,7 +1327,7 @@
                      <l>Well, but thy weapon—was it loſt in fight?</l>
                      <l>Huſh, I remember—'twas to aid thy flight;</l>
                      <l>
-                        <pb n="47" facs="tcp:016697_0043_0F9D78B5A2B237A8"/>Of braſs lead, leather, treble is thy ſhield,</l>
+                        <pb n="47" facs="unknown:016697_0043_0F9D78B5A2B237A8"/>Of braſs lead, leather, treble is thy ſhield,</l>
                      <l>And treble tremblings ſeize thee in the field;</l>
                      <l>Treble in office, and in faith thou art,</l>
                      <l>And nothing double in thee but thy heart.</l>
@@ -1355,7 +1356,7 @@
                      <l>Princeton receiv'd him bright amidſt his flaws,</l>
                      <l>And ſaw him labour in the good old cauſe;</l>
                      <l>
-                        <pb n="48" facs="tcp:016697_0044_0F9D78B661422130"/>Saw him promote the meritorious work,</l>
+                        <pb n="48" facs="unknown:016697_0044_0F9D78B661422130"/>Saw him promote the meritorious work,</l>
                      <l>The hate of Kings, and glory of the Kirk.</l>
                   </lg>
                   <lg>
@@ -1387,7 +1388,7 @@
                      <l>Member of Congreſs we muſt hail him next;</l>
                      <l>Come out of Babylon was now his text:</l>
                      <l>
-                        <pb n="49" facs="tcp:016697_0045_0F9D78B74EA38348"/>Fierce as the fierceſt, foremoſt of the firſt,</l>
+                        <pb n="49" facs="unknown:016697_0045_0F9D78B74EA38348"/>Fierce as the fierceſt, foremoſt of the firſt,</l>
                      <l>He'd rail at Kings, with venom well-nigh burſt<g ref="char:punc">▪</g>
                      </l>
                      <l>Not uniformly grand—for ſome bye end</l>
@@ -1415,7 +1416,7 @@
                      <l>What uproar now—what hideous monſters ruſh,</l>
                      <l>Whoſe recreant looks put honour to the bluſh;</l>
                      <l>
-                        <pb n="50" facs="tcp:016697_0046_0F9D7878C120C1E0"/>Mixtures of pallid fear, and bloody rage,</l>
+                        <pb n="50" facs="unknown:016697_0046_0F9D7878C120C1E0"/>Mixtures of pallid fear, and bloody rage,</l>
                      <l>Like Banquo's ghoſt tremendous on the ſtage;</l>
                      <l>Theſe are from Georgia, from the ſouthern ſun,</l>
                      <l>Swift as Achilles, not to fight but run;</l>
@@ -1443,7 +1444,7 @@
                         </gap>gions and ſhoals of all prodigious forms,</l>
                      <l>Loud as the rattling of a thouſand ſtorms,</l>
                      <l>
-                        <pb n="51" facs="tcp:016697_0047_0F9D785AE33E56C0"/>Gorgons in look, and Caffres in addreſs,</l>
+                        <pb n="51" facs="unknown:016697_0047_0F9D785AE33E56C0"/>Gorgons in look, and Caffres in addreſs,</l>
                      <l>Dutch, yankies, yellow-wigs for audience preſs;</l>
                   </lg>
                   <lg>
@@ -1472,7 +1473,7 @@
                      <l>What could incite thee, Laurens, to rebel?</l>
                      <l>Thy ſoul thou wouldſt not for a trifle ſell;</l>
                      <l>
-                        <pb n="52" facs="tcp:016697_0048_0F9D785BA18056F8"/>'Twas not of pow'r the wild inſatiate luſt;</l>
+                        <pb n="52" facs="unknown:016697_0048_0F9D785BA18056F8"/>'Twas not of pow'r the wild inſatiate luſt;</l>
                      <l>Miſtaken as thou art, I deem thee juſt;</l>
                      <l>Saw'ſt thou thy King tyrannically rule?</l>
                      <l>Thou couldſt not think it—thou art not a fool;</l>
@@ -1501,7 +1502,7 @@
                      <l>Thee, Laurens, foe to monarchy we call,</l>
                      <l>And thou, or legal government muſt fall:</l>
                      <l>
-                        <pb n="53" facs="tcp:016697_0049_0F9D785C6147DA08"/>Who wept for Cato, was not Cato's friend;</l>
+                        <pb n="53" facs="unknown:016697_0049_0F9D785C6147DA08"/>Who wept for Cato, was not Cato's friend;</l>
                      <l>Who pitied Brutus, Brutus would offend;</l>
                      <l>So, Laurens, to conclude my grave harangue,</l>
                      <l>I would not pity tho' I ſaw thee hang.</l>
@@ -1530,7 +1531,7 @@
                      <l>Here Violence puts on a cloſe diſguiſe,</l>
                      <l>And Public Spirit's character belies;</l>
                      <l>
-                        <pb n="54" facs="tcp:016697_0050_0F9D785D22D03370"/>The dreſs of Policy ſee Cunning ſteal,</l>
+                        <pb n="54" facs="unknown:016697_0050_0F9D785D22D03370"/>The dreſs of Policy ſee Cunning ſteal,</l>
                      <l>And Perſecution wear the coat of Zeal;</l>
                      <l>Hypocriſy Religion's garb aſſume,</l>
                      <l>Fraud Virtue ſtrip, and figure in her room,</l>
@@ -1560,7 +1561,7 @@
                      <l>Direct the diet thou, prepare the purge<g ref="char:punc">▪</g>
                      </l>
                      <l>
-                        <pb n="55" facs="tcp:016697_0051_0F9D785DE3888AD8"/>Thou to the bottom probe the dangerous ſore,</l>
+                        <pb n="55" facs="unknown:016697_0051_0F9D785DE3888AD8"/>Thou to the bottom probe the dangerous ſore,</l>
                      <l>And in the wound the friendly balſam pour;</l>
                      <l>Enough for me the cauſtic to apply,</l>
                      <l>Twinge the proud fleſh, and draw the face awry;</l>
@@ -1569,7 +1570,7 @@
                   </lg>
                </div>
                <div n="3" type="part">
-                  <pb facs="tcp:016697_0052_0F9D785EB26A6AF8"/>
+                  <pb facs="unknown:016697_0052_0F9D785EB26A6AF8"/>
                   <head>THE AMERICAN TIMES. PART III.</head>
                   <lg>
                      <l>WHEN the wiſe ruler of Glubdubdrib's iſle</l>
@@ -1589,7 +1590,7 @@
                      <l>Our invocation ſummon'd up the pack;</l>
                      <l>Our potent word can headlong drive them back;</l>
                      <l>
-                        <pb n="57" facs="tcp:016697_0053_0F9D785F92823860"/>Ye coxcomb Congreſſmen, declaimers keen,</l>
+                        <pb n="57" facs="unknown:016697_0053_0F9D785F92823860"/>Ye coxcomb Congreſſmen, declaimers keen,</l>
                      <l>Briſk puppets of the Philadelphian ſcene;</l>
                      <l>Ye numerous chiefs, who can or cannot fight,</l>
                      <l>Ye curious ſcribes, who can or cannot write,</l>
@@ -1616,7 +1617,7 @@
                      <l>'Tis ſaid, that once on Burgoyne's ſtrange affair,</l>
                      <l>She ſpake her mind, and made the Congreſs ſtare:</l>
                      <l>
-                        <pb n="58" facs="tcp:016697_0054_0F9D7860D19FD358"/>Perhaps with Laurens, did not Laurens ſell</l>
+                        <pb n="58" facs="unknown:016697_0054_0F9D7860D19FD358"/>Perhaps with Laurens, did not Laurens ſell</l>
                      <l>His virtue for a name, ſhe'd love to dwell.</l>
                   </lg>
                   <lg>
@@ -1646,7 +1647,7 @@
                      <l>Confront the lies which Congreſs ſends abroad,</l>
                      <l>Expoſe the ſophiſtry, detect the fraud,</l>
                      <l>
-                        <pb n="59" facs="tcp:016697_0055_0F9D7860E1F8BB48"/>Truth's genuine maxims forcibly diſplay;</l>
+                        <pb n="59" facs="unknown:016697_0055_0F9D7860E1F8BB48"/>Truth's genuine maxims forcibly diſplay;</l>
                      <l>
                         <note n="*" place="bottom">Rev'd Dr. Chandler, long ſince driven by the rebels from New-Jerſey, now reſident in England.</note> Chandler and <note n="†" place="bottom">Member of his Majeſty's Council for New-Jerſey, now reſiding in New York.</note> Coxe are proofs of what I ſay.</l>
                   </lg>
@@ -1675,7 +1676,7 @@
                      <l>New monſters hiſs, and new enchantments riſe.</l>
                   </lg>
                   <lg>
-                     <pb n="60" facs="tcp:016697_0056_0F9D7861A2921900"/>
+                     <pb n="60" facs="unknown:016697_0056_0F9D7861A2921900"/>
                      <l>Was <note n="*" place="bottom">Of New-England, a man famous for every infamy.</note> Samuel Adams to become a ghoſt,</l>
                      <l>Another Adams would aſſume his poſt;</l>
                      <l>Was buſtling Hancock number'd with the dead,</l>
@@ -1703,7 +1704,7 @@
                      <l>When like a hill convuls'd, whoſe womb has nurs'd</l>
                      <l>Internal fires, the conſtitution burſt,</l>
                      <l>
-                        <pb n="61" facs="tcp:016697_0057_0F9D786263447528"/>What ſtrange varieties we daily ſaw,</l>
+                        <pb n="61" facs="unknown:016697_0057_0F9D786263447528"/>What ſtrange varieties we daily ſaw,</l>
                      <l>What prodigies of policy and law!</l>
                      <l>See in committees Ignorance preſide,</l>
                      <l>Conventions met, and Folly was their guide;</l>
@@ -1731,7 +1732,7 @@
                      <l>And roam the fields of popular miſtake.</l>
                   </lg>
                   <lg>
-                     <pb n="62" facs="tcp:016697_0058_0F9D786322315390"/>
+                     <pb n="62" facs="unknown:016697_0058_0F9D786322315390"/>
                      <l>Truce with theſe flow'rs—the Times are out of joint<g ref="char:punc">▪</g>
                      </l>
                      <l>Hence trifling—come we cloſer to the point;</l>
@@ -1762,7 +1763,7 @@
                      <l>But arm they would, ridiculouſly brave;</l>
                      <l>Good laughter ſpare me, I would fain be grave;</l>
                      <l>
-                        <pb n="63" facs="tcp:016697_0059_0F9D7863E2052310"/>So arm they did—the knave led on the fool;</l>
+                        <pb n="63" facs="unknown:016697_0059_0F9D7863E2052310"/>So arm they did—the knave led on the fool;</l>
                      <l>Good anger ſpare me, I would fain be cool:</l>
                      <l>Mixtures were ſeen amazing in their kind,</l>
                      <l>Extravagance with cruelty was join'd;</l>
@@ -1791,7 +1792,7 @@
                      <l>That brazen ſerpent, rais'd on Freedom's pole,</l>
                      <l>To render all who look upon it whole;</l>
                      <l>
-                        <pb n="64" facs="tcp:016697_0060_0F9D7864A3583BA8"/>That half-dreſs'd idol of the weſtern ſhore;</l>
+                        <pb n="64" facs="unknown:016697_0060_0F9D7864A3583BA8"/>That half-dreſs'd idol of the weſtern ſhore;</l>
                      <l>All rags behind, all elegance before;</l>
                      <l>That conj'rer, which conveys away your gold,</l>
                      <l>And gives you paper in its ſtead to hold.</l>
@@ -1822,7 +1823,7 @@
                      <l>Illuſtrious guardians of the laurel hill,</l>
                      <l>Excuſe this warmth, theſe ſallies of the quill;</l>
                      <l>
-                        <pb n="65" facs="tcp:016697_0061_0F9D78656111E1A0"/>I would be temp'rate, but ſevere diſdain</l>
+                        <pb n="65" facs="unknown:016697_0061_0F9D78656111E1A0"/>I would be temp'rate, but ſevere diſdain</l>
                      <l>Calls for the laſh whene'er I check the rein;</l>
                      <l>I would be patient, but the teazing ſmart</l>
                      <l>Of inſects makes the fiery courſer ſtart;</l>
@@ -1852,7 +1853,7 @@
                      <l>From the rank ſtable this enormous heap.</l>
                   </lg>
                   <lg>
-                     <pb n="66" facs="tcp:016697_0062_0F9D786623E05380"/>
+                     <pb n="66" facs="unknown:016697_0062_0F9D786623E05380"/>
                      <l>Such are the times—Ceaſe, uſeleſs Satire, ceaſe!</l>
                      <l>Each moment dire barbarities increaſe;</l>
                      <l>Ev'n whilſt I write a monſter fierce and huge</l>
@@ -1881,7 +1882,7 @@
                      <l>In all th'unclouded luſtre of the ſky:</l>
                   </lg>
                   <lg>
-                     <pb n="67" facs="tcp:016697_0063_0F9D786774B024D8"/>
+                     <pb n="67" facs="unknown:016697_0063_0F9D786774B024D8"/>
                      <l>See his right hand a two-edg'd weapon wield,</l>
                      <l>The double croſs ſhines brilliant on his ſhield:</l>
                      <l>Hear him, ye juſt, and in his words rejoice;</l>
@@ -1914,7 +1915,7 @@
                      <l>'And bid thee turn from wickedneſs and live.</l>
                   </lg>
                   <lg>
-                     <pb n="68" facs="tcp:016697_0064_0F9D7867A21042B8"/>
+                     <pb n="68" facs="unknown:016697_0064_0F9D7867A21042B8"/>
                      <l>'For this thy malice, ſwelling like a flood,</l>
                      <l>'Has overpaſs'd all bounds, and foam'd with blood;</l>
                      <l>'Outrage has follow'd outrage, ſhocking ſight!</l>
@@ -1952,7 +1953,7 @@
                         </gap>gent as the ſtarry train</l>
                   </lg>
                   <lg>
-                     <pb n="69" facs="tcp:016697_0065_0F9D7868632B9210"/>
+                     <pb n="69" facs="unknown:016697_0065_0F9D7868632B9210"/>
                      <l>'Then, when eternal juſtice is appeas'd,</l>
                      <l>'When with due vengeance heav'n and earth are pleas'd,</l>
                      <l>'America, from dire pollution clear'd,</l>
